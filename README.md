@@ -230,6 +230,3 @@ The sender shown by Gmail is the configured Gmail account (`EMAIL_HOST_USER`).
 The user's email is included inside the email body.
 
 This is the standard approach used by many Contact Us forms.
-
-MIT License
-
