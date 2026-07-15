@@ -1,0 +1,24 @@
+```gitignore id="0mb6jn"
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+denv/
+
+# Django
+db.sqlite3
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+```
