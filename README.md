@@ -1,8 +1,6 @@
 # About Project
 # Email Sender System
 
-# Django Email Sender
-
 A simple Django MVT project demonstrating how to send **real emails** using Gmail SMTP and Django's built-in email framework.
 
 The main purpose of this project is to learn and demonstrate the integration of Django with Gmail SMTP for sending emails from a web application.
