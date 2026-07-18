@@ -20,7 +20,6 @@ After submitting the form:
 * The backend generates a formatted email.
 * Gmail SMTP is used to send the email.
 * The website owner receives the email inside their Gmail inbox.
-* Success and error messages are displayed using Django Messages Framework.
 
 ---
 
@@ -78,7 +77,7 @@ The Contact Us form contains:
 4. Backend creates a formatted email.
 5. Django connects to Gmail SMTP.
 6. Email is sent to the website owner's Gmail account.
-7. Success message is displayed.
+7. Success message is displayed via redirecting to a sent successfully page.
 8. User is redirected back to the Contact page.
 
 ---
